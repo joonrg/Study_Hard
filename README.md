@@ -1,2 +1,2 @@
-# project_20220718
+# project
 This is Github Test Project.
