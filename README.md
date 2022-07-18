@@ -1,2 +1,2 @@
-# project
-This is Github Test Project.
+# every day practice 
+Practice Github.
