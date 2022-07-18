@@ -44,5 +44,7 @@ This storage made for practice github.
    [Naver](http://www.naver.com)
    
    [Naver (add Explanation)](http://www.naver.com, "naver link")
- 
- 
+   
+6. Image
+<img src="https://img.shields.io/badge/AmazoneEC2-FF9900?style=flat-square&logo=Amazon&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+(https://shields.io/ 활용)
